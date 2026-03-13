@@ -1,0 +1,10 @@
+
+{
+  "name": "React PWA Demo",
+  "short_name": "PWA Demo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "icons": []
+}
